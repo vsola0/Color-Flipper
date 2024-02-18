@@ -38,6 +38,16 @@ nav {
     color: white;
 }
 
+.color-container {
+    text-align: center;
+}
+
+.color-container h2,
+.color-container button {
+    display: block;
+    margin: 0 auto;
+}
+
 .container {
     text-align: center;
     margin-top: 200px;
@@ -45,12 +55,17 @@ nav {
 
 h2 {
     color: rgb(204, 204, 204);
+    background-color: black;
+    padding: 10px;
+    border-radius: 18px;
     font-size: 36px;
     margin-bottom: 30px;
 }
 
 .color {
     color: rgb(202, 152, 152);
+    padding: 0 5px;
+    
 }
 
 .btn {
