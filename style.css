@@ -44,12 +44,13 @@ nav {
 }
 
 h2 {
+    color: rgb(204, 204, 204);
     font-size: 36px;
     margin-bottom: 30px;
 }
 
 .color {
-    color: rgb(204, 204, 204);
+    color: rgb(202, 152, 152);
 }
 
 .btn {
