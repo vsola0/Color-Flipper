@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f1f5f8;
+}
+
+nav {
+    background-color: rgb(76, 76, 139);
+    color:white;
+    padding: 12px 0;
+}
+
+.nav-center {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
